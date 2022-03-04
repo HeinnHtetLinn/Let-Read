@@ -1,0 +1,91 @@
+   form {
+    margin: 20px;
+   }
+   form label {
+    display: block;
+    margin-top: 10px;
+    color: #555;
+   }
+   input[type=text],
+   input[type=password],
+   textarea,
+   select {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ddd;
+    padding: 6px;
+    width: 300px;
+    background: #fff;
+   }
+   textarea {
+    height: 100px;
+   }
+   input[type=submit] {
+    padding: 10px 24px;
+    margin-right: 10px;
+   }
+   body {
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+button:focus, button:active, button:hover{
+    box-shadow: none!important;
+    outline: 0;
+  }
+  .btn:focus, .btn:active, .btn:hover,
+  textarea:focus, textarea:active, textarea:hover,
+  input:focus, input:active, input:hover{
+    box-shadow: none!important;
+    outline: 0;
+  }
+  .list b {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #2980B9;
+   }
+   .list i, .list small {
+    color: #888;
+    font-size: 12px;
+    margin-right: 10px;
+   }
+   .list span {
+    color: #8E44AD;
+   }
+   /* .main .book b {
+    display: block;
+    margin: 5px 0;
+    font-weight: normal;
+   }
+   .main .book i {
+    color: #E74C3C;
+   }
+   a.add-to-cart {
+    font-size: 13px;
+    display: block;
+    background: #1ABC9C;
+    color: #fff;
+    padding: 5px 0;
+    margin: 5px 30px;
+   } */
+
+   /* ul.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #16A085;
+   }
+   ul.menu li {
+    float: left;
+    border-right: 1px solid #1ABC9C;
+   }
+   ul.menu a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+   }
+   ul.menu a:hover {
+    background: #1ABC9C;
+   } */
+   

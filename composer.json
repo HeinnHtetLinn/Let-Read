@@ -1,0 +1,16 @@
+{
+    "name": "dell-v3567/store",
+    "autoload": {
+        "psr-4": {
+            "Confs\\":"_classes/Confs/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Shwanjeongdae",
+            "email": "www.linheinhtet347@gamil.com"
+        }
+    ],
+    "require": {}
+}
